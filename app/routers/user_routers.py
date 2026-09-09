@@ -44,4 +44,4 @@ def login(email: str, password: str):
             "email": user["email"],
             "role": user["role"]
         }
-    }
+    } 
